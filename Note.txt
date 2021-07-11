@@ -1,1 +1,31 @@
 https://codepen.io/smcnally000/pen/poeEYOq
+https://github.com/karlhadwen/carousel/blob/master/index.html
+
+scroll bar..
+https://sqv5f.csb.app/
+
+https://mobirise.com/bootstrap-carousel/
+https://www.npmjs.com/package/react-elastic-carousel
+
+https://react-bootstrap.github.io/components/carousel/          << This got slides motion.
+https://github.com/react-bootstrap/react-bootstrap/blob/master/src/Carousel.tsx
+
+
+Build a carousel in React js. (Custom component )          << This got slides motion. (but last one shift left to go to the first one when clicking the right button)
+https://www.youtube.com/watch?v=Tdpq-9XYoNM
+C:\react\react-carousel
+
+https://primefaces.org/primereact/showcase/#/carousel
+https://github.com/primefaces/primereact/blob/master/src/components/carousel/Carousel.js
+
+
+Accessibility:
+https://www.w3.org/TR/wai-aria-practices-1.1/
+
+=======================================
+
+Remember to add:
+      <div class="carousel__actions">
+        <button id="carousel__button--prev" aria-label="Previous slide"><</button>
+        <button id="carousel__button--next" aria-label="Next slide">></button>
+      </div>
