@@ -5,10 +5,10 @@ scroll bar..
 https://sqv5f.csb.app/
 
 https://mobirise.com/bootstrap-carousel/
-https://www.npmjs.com/package/react-elastic-carousel
+https://www.npmjs.com/package/react-elastic-carousel            << Seems a lot of the youtube tutorial are using this library.
 
-https://react-bootstrap.github.io/components/carousel/          << This got slides motion.
-https://github.com/react-bootstrap/react-bootstrap/blob/master/src/Carousel.tsx
+https://react-bootstrap.github.io/components/carousel/          << This got slides motion. This one is what we want for slides...
+https://github.com/react-bootstrap/react-bootstrap/blob/master/src/Carousel.tsx     << We want the implementation of this one...
 
 
 Build a carousel in React js. (Custom component )          << This got slides motion. (but last one shift left to go to the first one when clicking the right button)
@@ -17,6 +17,11 @@ C:\react\react-carousel
 
 https://primefaces.org/primereact/showcase/#/carousel
 https://github.com/primefaces/primereact/blob/master/src/components/carousel/Carousel.js
+
+
+React Slider - 1 - Build An Image Slider Carousel With React Hooks
+https://www.youtube.com/watch?v=N7W-S4JhMXY&t=269s
+https://dzuz14.github.io/react-hooks-image-slider/
 
 
 Accessibility:
